@@ -50,7 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+cd-lab-exp1
 # Translations
 *.mo
 *.pot
