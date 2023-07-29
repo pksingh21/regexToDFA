@@ -16,13 +16,14 @@ This is a Python script that implements Thompson's construction algorithm to con
 2. Install the required dependencies by running the following command:
 
    ```bash
+   source ./cd-lab-exp1/bin/activate
    pip install -r requirements.txt
    ```
    ```bash
    python RegexToNFA20CS01003.py
     ```
     Enter the regex type you want
-    Press Enter and the respective images in png format will be generated sample images and sample regex in code itself
+    Press Enter and the respective images in png format will be generated sample images for ```(a|b)*``` and sample regex in code itself
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
