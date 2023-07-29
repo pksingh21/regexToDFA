@@ -1,0 +1,9 @@
+digraph {
+	node [shape=circle]
+	3 [label="start state" color=green shape=doublecircle]
+	",,,,1,2,4" [label="end state" color=red shape=doublecircle]
+	3 -> "1,2,4" [label=a]
+	"1,2,4" -> "1,2,4" [label=a]
+	"1,2,4" [label="end state" color=red shape=doublecircle]
+	3 [label="start + end state" color=violet shape=doublecircle]
+}
