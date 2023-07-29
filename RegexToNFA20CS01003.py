@@ -1,4 +1,3 @@
-import exrex
 import graphviz as gv
 
 globalLabelIndex = 0
