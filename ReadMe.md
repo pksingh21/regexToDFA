@@ -23,7 +23,7 @@ This is a Python script that implements Thompson's construction algorithm to con
    python RegexToNFA20CS01003.py
     ```
     Enter the regex type you want
-    Press Enter and the respective images in png format will be generated sample images for ```(a|b)*``` and sample regex in code itself
+    Press Enter and the respective images in png format will be generated sample images for ```(a|b)*``` and sample regex in code itself. Please note that concatenation character for operation must be mentioned explicitly like ```a*.(b.c)*.d```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
